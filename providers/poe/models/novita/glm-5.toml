@@ -1,11 +1,10 @@
-name = "GLM-5"
-family = "glm"
+name = "glm-5"
 release_date = "2026-02-11"
 last_updated = "2026-02-11"
-attachment = false
+attachment = true
 reasoning = true
 temperature = false
-open_weights = true
+open_weights = false
 tool_call = true
 
 [limit]
